@@ -16,7 +16,7 @@ Usage of Scikit-Learn and XGBoost
 - Boosted Tree (XGBoost)
 
 ## Explainable ML
-I levereged the SHAP framwork (https://github.com/slundberg/shap) to get a better understanding of the results of the ML-Tools
+I used the SHAP framwork (https://github.com/slundberg/shap) to get a better understanding of the results of the ML-Tools
 
 
 
